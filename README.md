@@ -7,3 +7,12 @@ Esse é um projeto bem simples, porém é o meu primeiro contato com o HTML e es
 A idéia inicial é criar um site pessoal utilizando o HTML. Estarei colocando aqui toda a minha evoluão do projeto.
 
 Hands on Code!
+
+##
+
+## Olá novamente!
+
+O projeto tem ganhado cada vez mais cor e aos poucos está saindo do esqueleto do HTML e indo para algo um pouco mais parecido com um site da web.
+Iniciei meus estudos com CSS3 e estou estilizando o meu projeto.
+
+Hands on Code!
